@@ -18,8 +18,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-<img width="770" height="333" alt="image" src="https://github.com/user-attachments/assets/f3416e5d-4664-4322-bae4-dc8f4dbe481e" />
-
+<img width="1597" height="857" alt="image" src="https://github.com/user-attachments/assets/9d3797ce-8ffc-4d08-a55c-9b8827128a40" />
 
 ## Program
 import math
@@ -98,7 +97,8 @@ else:
 
 
 ## Output :
-<img width="1597" height="857" alt="image" src="https://github.com/user-attachments/assets/9d3797ce-8ffc-4d08-a55c-9b8827128a40" />
+<img width="770" height="333" alt="image" src="https://github.com/user-attachments/assets/f3416e5d-4664-4322-bae4-dc8f4dbe481e" />
+
 ## Result : 
 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully
